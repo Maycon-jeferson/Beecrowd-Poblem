@@ -1,6 +1,6 @@
-<h2>Enviar arquivo--- ( ou .)</h2>
+<h2>Enviar arquivo</h2>
 
-git add nome-do-arquivo
+git add nome-do-arquivo (ou .)
 
 git commit -m "mensagem do commit"
 
