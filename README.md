@@ -1,4 +1,4 @@
-Enviar arquivo---
+Enviar arquivo--- (ou .)
 
 git add nome-do-arquivo
 
